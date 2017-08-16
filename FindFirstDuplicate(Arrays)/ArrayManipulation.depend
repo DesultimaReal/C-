@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501812490 source:d:\users\starvinmarvin\desktop\arraymanipulation\main.cpp
+	<iostream>
+	<vector>
+	<complex>
+
