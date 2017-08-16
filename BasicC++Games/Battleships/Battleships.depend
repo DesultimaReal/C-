@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1494976650 source:d:\users\starvinmarvin\desktop\codeblocks projects\battleships\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+
+1499390057 source:d:\users\starvinmarvin\desktop\code\all codeblocks\shoddyc++games\battleships\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+
